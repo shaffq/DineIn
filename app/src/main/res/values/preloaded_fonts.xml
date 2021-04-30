@@ -2,7 +2,10 @@
 <resources>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/archivo_black</item>
+        <item>@font/fira_sans_medium</item>
         <item>@font/kanit_medium</item>
+        <item>@font/quicksand_medium</item>
+        <item>@font/space_mono_bold</item>
         <item>@font/stoke_light</item>
     </array>
 </resources>
